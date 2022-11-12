@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development , PhotoShop , VegasPro , Break Dance!
 - 🌱 I’m currently learning at geekbrains as a front-end developer
 - 💞️ I’m looking to collaborate on internatilion company.
-- 📫 How to reach me denviko00@gmail.com
+- 📫 *How to reach me* denviko00@gmail.com
 
 
 <!---
